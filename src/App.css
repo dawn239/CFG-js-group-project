@@ -1,0 +1,22 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  background-color: dodgerblue;
+  font-family: "Copperplate";
+  border-bottom: 5px dodgerblue solid;
+}
+#schoolName {
+  padding: 0;
+  font-size: 30px;
+}
+#moto {
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+
+#logo {
+  max-width: 80px;
+  max-height: 80px;
+}
