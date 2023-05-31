@@ -1,3 +1,5 @@
+This is code from a group project completed as part of the Code First Girls kickstarter javascript course in May 2023. The others in my group were Nicole Williamson and Rochelle Anderson. We decided to create a website for a school. The requirements for this project were to have at least two pages using react, styled with css and if possible to use states and effects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
